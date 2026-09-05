@@ -1,4 +1,4 @@
-IEEE Transactions on Geoscience and Remote Sensing.
+# Li X, Xu X, Chen S. SFPNet: Sparse Feature Propagation Neural Network for Hyperspectral Image Classification[J]. IEEE Transactions on Geoscience and Remote Sensing, 2026.
 
 #Now that you're all here, don't forget to click on the little star!!!!!!!!!!!!!!!!!!!!!!!
 
