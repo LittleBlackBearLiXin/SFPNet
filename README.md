@@ -1,6 +1,7 @@
-# SFPNet
-SFPNet: Sparse Feature Propagation Neural Network for Hyperspectral Image Classification
+IEEE Transactions on Geoscience and Remote Sensing.
+#Now that you're all here, don't forget to click on the little star!!!!!!!!!!!!!!!!!!!!!!!
 
+If you use our method, please cite our paper: 
 @article{li2026sfpnet,
   title={SFPNet: Sparse Feature Propagation Neural Network for Hyperspectral Image Classification},
   author={Li, Xin and Xu, Xitong and Chen, Shengbo},
@@ -9,12 +10,8 @@ SFPNet: Sparse Feature Propagation Neural Network for Hyperspectral Image Classi
   publisher={IEEE}
 }
 
-Xin Li, Xitong Xu, and Shengbo Chen
+#Before running the code, you need to download some installation packages: pip install scipy spectral scikit-learn scikit-image opencv-python torch-geometric seaborn "numpy<2" --upgrade einops torch-scatter
 
-#We will follow up with the article "NWGformer: A Linear Graph Transformer with Non-linear Re-weighting of Attention Scores", including insights of the new method, code comments, etc. Please look forward to it.
+##The UP and SA datasets are too large and can be downloaded here: https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes
 
-#We encourage researchers to explore and try out our methods before formally publishing a paper, but be sure to cite our methods. #You can find the code, documentation and instructions for use in this repository. If you encounter any problems or have any suggestions for improvement, please feel free to contact us at lixin17808627537@163.com.
-
-#pip install torch-geometric matplotlib scikit-learn torch-scatter pandas torch_sparse ogb googledrivedownloader==0.4 gdown seaborn
-
-####Now that you're all here, don't forget to click on the little star.!!!!!!!!!!!!!!!!!!!
+#If you need any assistance, please contact: lixin17808627537@163.com or lisxin@hrbeu.edu.cn
