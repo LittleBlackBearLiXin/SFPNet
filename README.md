@@ -1,7 +1,9 @@
 IEEE Transactions on Geoscience and Remote Sensing.
+
 #Now that you're all here, don't forget to click on the little star!!!!!!!!!!!!!!!!!!!!!!!
 
-If you use our method, please cite our paper: 
+#If you use our method, please cite our paper: 
+
 @article{li2026sfpnet,
   title={SFPNet: Sparse Feature Propagation Neural Network for Hyperspectral Image Classification},
   author={Li, Xin and Xu, Xitong and Chen, Shengbo},
